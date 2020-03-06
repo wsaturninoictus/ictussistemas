@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890137632030",
+    "firebase_url": "https://compras-sagrado.firebaseio.com",
+    "project_id": "compras-sagrado",
+    "storage_bucket": "compras-sagrado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890137632030:android:03f61e7c51fff41945bd0f",
+        "android_client_info": {
+          "package_name": "com.redesagrado.appcompras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890137632030-f2nc051a7tgooic5jq58m007bf4v0al8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6dCCWQ-4Uc2AMAoC0Rsps25uaauwwJKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890137632030-f2nc051a7tgooic5jq58m007bf4v0al8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
